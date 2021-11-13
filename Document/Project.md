@@ -21,7 +21,7 @@ C++, C++/CLI, C#, Windows Forms <br/><br/>
 - 운영체제의 메모리 할당 전략 가운데 First-Fit과 Best-Fit을 이용하여 메모리 할당 시나리오 구현
 - 시나리오 자동 재생 모드와 수동 재생 모드 지원
 
-<br/><br/>
+<br/>
 
 ## SimFarm
 
@@ -46,7 +46,7 @@ C#, Windows Forms <br/><br/>
 - 다른 객체와의 충돌 이벤트를 감지
 - 세 종류의 애완동물을 선택 가능하며, 애완동물의 상태에 따라 각각 여덟 가지의 엔딩 제공
 
-<br/><br/>
+<br/>
 
 ## Socket Chat
 
@@ -71,7 +71,7 @@ C, Windows API <br/><br/>
 - 입력된 문자열을 파싱하여 귓속말 명령어와 파일 전송 명령어 제공
 - 스레드를 이용하여 끊김 없는 파일 전송 지원
 
-<br/><br/>
+<br/>
 
 ## Search
 
@@ -96,7 +96,7 @@ Vue.js, Python, Flask, Scikit-learn, Keras, MariaDB <br/><br/>
 - HTML5의 카메라를 이용하여 스마트폰에서 사진을 캡처
 - 샴 네트워크를 이용하여 촬영된 사진의 특징 벡터를 추출하고, 랜덤 포레스트를 통해 유사한 일러스트레이터 명함 매칭
 
-<br/><br/>
+<br/>
 
 ## To-Do
 
@@ -123,7 +123,7 @@ Vue.js, Firebase <br/><br/>
 - 파이어베이스의 Cloud Firestore를 이용하여 사용자 데이터 관리
 - OpenWeatherMap API를 이용하여 현재 날씨 출력
 
-<br/><br/>
+<br/>
 
 ## Superpixel Annotation
 
@@ -152,7 +152,7 @@ C++, OpenCV, Windows API, Python, Flask, TensorFlow <br/><br/>
 - 히스토그램을 활용하여 선택된 세그먼트와 유사한 세그먼트를 동시에 라벨링할 수 있는 기능 제공
 - 시멘틱 세그멘테이션을 이용하여 자동 라벨링 기능 제공
 
-<br/><br/>
+<br/>
 
 ## RISA
 
@@ -183,7 +183,7 @@ Vue.js, Express, Python, Flask, TensorFlow, MariaDB, Redis <br/><br/>
 **시연 동영상** <br/>
 [YouTube](https://www.youtube.com/watch?v=nc2H-yq09N0)
 
-<br/><br/>
+<br/>
 
 ## LABEL RISA
 
@@ -216,7 +216,7 @@ Vue.js, Express, Python, Flask, TensorFlow, MariaDB, Redis <br/><br/>
 **시연 동영상** <br/>
 [YouTube](https://www.youtube.com/watch?v=C4xXqbWBvH0)
 
-<br/><br/>
+<br/>
 
 ## File Sharing Service
 
@@ -239,7 +239,7 @@ JavaScript, Express <br/><br/>
 **운영 사이트** <br/>
 [File Sharing Service](http://cvpr.kumoh.ac.kr/fss/)
 
-<br/><br/>
+<br/>
 
 ## Video Play Speed Changer
 
@@ -269,7 +269,7 @@ JavaScript, Express <br/><br/>
 **운영 사이트** <br/>
 [Video Play Speed Changer](http://cvpr.kumoh.ac.kr/video-play-speed-converter/)
 
-<br/><br/>
+<br/>
 
 ## Contact QR Code Generator
 
