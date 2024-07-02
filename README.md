@@ -15,9 +15,6 @@
     <a href="https://igoc.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
     </a>
-    <a href="https://til.igoc.dev/">
-        <img src="https://img.shields.io/badge/TIL-3884FF?style=for-the-badge&logo=GitBook&logoColor=FFFFFF"/>
-    </a>
 </div>
 
 <br/><br/>
